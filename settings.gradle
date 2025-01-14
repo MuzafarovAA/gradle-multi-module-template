@@ -3,3 +3,4 @@ rootProject.name = 'gradle-multi-module-template'
 include 'module.first'
 include 'module.second'
 
+startParameter.setWriteDependencyLocks(true)
